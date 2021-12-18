@@ -12,5 +12,8 @@ When the number of messages in increased during the time frame the sentiment sli
 
 
 ## Running the code
+Install the dependencies
+`conda install --file requirements.txt`
+
 
 Execute the command `sh run.sh` in the terminal.
