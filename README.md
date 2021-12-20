@@ -13,7 +13,7 @@ When the number of messages in increased during the time frame the sentiment sli
 
 ## Running the code
 
-Use Python version 3.9.7 and install the dependencies in Requirement.txt.
+Use Python version 3.9.7 and install the dependencies in requirement.txt.
 
 `pip3 install -r requirements.txt`
 
