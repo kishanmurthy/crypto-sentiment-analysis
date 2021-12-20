@@ -12,8 +12,10 @@ When the number of messages in increased during the time frame the sentiment sli
 
 
 ## Running the code
-Install the dependencies
-`conda install --file requirements.txt`
+
+Use Python version 3.9.7 and install the dependencies in Requirement.txt.
+
+`pip3 install -r requirements.txt`
 
 
 Execute the command `sh run.sh` in the terminal.
