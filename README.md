@@ -1,6 +1,6 @@
-# Crypto Sentiment Analysis
+# Crypto Sentiment Analyzer
 
-The goal is to find the average sentiment of the [Telegram messages](https://t.me/CryptoComOfficial) from May 1st, 2021 to including May 15, 2021.
+The goal is to find the average sentiment of the [Telegram messages](https://t.me/CryptoComOfficial).
 
 ## Summary of the results
 
