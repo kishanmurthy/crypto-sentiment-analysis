@@ -1,6 +1,7 @@
 # Crypto Sentiment Analyzer
 
 The goal is to find the average sentiment of the [Telegram messages](https://t.me/CryptoComOfficial).
+The project uses [Roberta sentiment transformer model](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment) trained on twitter dataset.
 
 ## Summary of the results
 
